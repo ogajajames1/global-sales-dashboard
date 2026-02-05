@@ -38,5 +38,4 @@ A small number of products contribute a large share of total sales
 File
 
 Sales_Dashboard.pbix
-
-Dashboard_Screenshot.png – Dashboard preview
+powerbi_dashboard.png
